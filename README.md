@@ -1,5 +1,5 @@
 # Cassandra REST API with Azure Functions in Node.js
-This example shows how to use [Azure Functions](https://azure.microsoft.com/en-us/services/functions/) with the [Node.js DataStax Cassandra Driver](https://docs.datastax.com/en/developer/nodejs-driver/latest) to set up a basic REST API via HTTP Endpoints. The [Serverless Framework](https://serverless.com/) is used to facilitate the setup and deployment of the functions.
+This example shows how to use [Azure Functions](https://azure.microsoft.com/en-us/services/functions/) with the [Node.js DataStax Cassandra Driver](https://docs.datastax.com/en/developer/nodejs-driver/latest) to set up a basic REST API for the DataStax or Cassandra database via HTTP Endpoints. The [Serverless Framework](https://serverless.com/) is used to facilitate the setup and deployment of the functions.
 
 Contributor(s): [Chris Splinter](https://github.com/csplinter)
 
