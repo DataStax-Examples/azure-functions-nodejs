@@ -43,7 +43,7 @@ npm install serverless-azure-functions
 ```
 5. Configure `serverless.yml` with your Contact Points ( public IP of Azure instance ), and Local Data Center ( likely `datacenter1` )
 
-## Running
+### Running
 From the project directory, deploy your function. This should output the endpoints that you can use to access the database.
 ```
 sls deploy
